@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hangul-keyboard id="2p" type="jamo">
+
+    <name>Dubeolsik Phonetic</name>
+
+    <map id="0">
+        <item key="0x41" value="0x1161"/>  <!-- A → ᅟᅡ -->                          
+        <item key="0x42" value="0x1108"/>  <!-- B → ᄈᅠ -->
+        <item key="0x43" value="0x110e"/>  <!-- C → ᄎᅠ -->
+        <item key="0x44" value="0x1104"/>  <!-- D → ᄄᅠ -->
+        <item key="0x45" value="0x1168"/>  <!-- E → ᅟᅨ -->                            
+        <item key="0x46" value="0x1163"/>  <!-- F → ᅟᅣ --> 
+        <item key="0x47" value="0x1101"/>  <!-- G → ᄁᅠ -->
+        <item key="0x48" value="0x1112"/>  <!-- H → ᄒᅠ --> 
+        <item key="0x49" value="0x1175"/>  <!-- I → ᅟᅵ -->
+        <item key="0x4a" value="0x110d"/>  <!-- J → ᄍᅠ -->
+        <item key="0x4b" value="0x110f"/>  <!-- K → ᄏᅠ --> 
+        <item key="0x4c" value="0x116d"/>  <!-- L → ᅟᅭ -->
+        <item key="0x4d" value="0x1106"/>  <!-- M → ᄆᅠ -->     
+        <item key="0x4e" value="0x1102"/>  <!-- N → ᄂᅠ --> 
+        <item key="0x4f" value="0x1169"/>  <!-- O → ᅟᅩ --> 
+        <item key="0x50" value="0x1111"/>  <!-- P → ᄑᅠ -->
+        <item key="0x51" value="0x110b"/>  <!-- Q → ᄋᅠ -->
+        <item key="0x52" value="0x1105"/>  <!-- R → ᄅᅠ -->
+        <item key="0x53" value="0x110a"/>  <!-- S → ᄊᅠ -->                                      
+        <item key="0x54" value="0x1110"/>  <!-- T → ᄐᅠ -->
+        <item key="0x55" value="0x116e"/>  <!-- U → ᅟᅮ -->     
+        <item key="0x56" value="0x1165"/>  <!-- V → ᅟᅥ -->
+        <item key="0x57" value="0x1173"/>  <!-- W → ᅟᅳ -->
+        <item key="0x58" value="0x1172"/>  <!-- X → ᅟᅲ -->
+        <item key="0x59" value="0x1164"/>  <!-- Y → ᅟᅤ -->
+        <item key="0x5a" value="0x1167"/>  <!-- Z → ᅟᅧ -->
+        <item key="0x61" value="0x1161"/>  <!-- a → ᅟᅡ -->                                            
+        <item key="0x62" value="0x1107"/>  <!-- b → ᄇᅠ -->                                                           
+        <item key="0x63" value="0x110e"/>  <!-- c → ᄎᅠ -->
+        <item key="0x64" value="0x1103"/>  <!-- d → ᄃᅠ -->                                               
+        <item key="0x65" value="0x1166"/>  <!-- e → ᅟᅦ -->
+        <item key="0x66" value="0x1163"/>  <!-- f → ᅟᅣ -->                                              
+        <item key="0x67" value="0x1100"/>  <!-- g → ᄀᅠ -->                                             
+        <item key="0x68" value="0x1112"/>  <!-- h → ᄒᅠ -->                                       
+        <item key="0x69" value="0x1175"/>  <!-- i → ᅟᅵ -->
+        <item key="0x6a" value="0x110c"/>  <!-- j → ᄌᅠ -->                                          
+        <item key="0x6b" value="0x110f"/>  <!-- k → ᄏᅠ -->      
+        <item key="0x6c" value="0x116d"/>  <!-- l → ᅟᅭ -->
+        <item key="0x6d" value="0x1106"/>  <!-- m → ᄆᅠ -->                                                            
+        <item key="0x6e" value="0x1102"/>  <!-- n → ᄂᅠ -->                                                  
+        <item key="0x6f" value="0x1169"/>  <!-- o → ᅟᅩ -->                                         
+        <item key="0x70" value="0x1111"/>  <!-- p → ᄑᅠ -->
+        <item key="0x71" value="0x110b"/>  <!-- q → ᄋᅠ -->
+        <item key="0x72" value="0x1105"/>  <!-- r → ᄅᅠ -->
+        <item key="0x73" value="0x1109"/>  <!-- s → ᄉᅠ -->
+        <item key="0x74" value="0x1110"/>  <!-- t → ᄐᅠ -->
+        <item key="0x75" value="0x116e"/>  <!-- u → ᅟᅮ -->                                         
+        <item key="0x76" value="0x1165"/>  <!-- v → ᅟᅥ -->
+        <item key="0x77" value="0x1173"/>  <!-- w → ᅟᅳ -->
+        <item key="0x78" value="0x1172"/>  <!-- x → ᅟᅲ -->
+        <item key="0x79" value="0x1162"/>  <!-- y → ᅟᅢ -->
+        <item key="0x7a" value="0x1167"/>  <!-- z → ᅟᅧ -->
+    </map>
+
+    <include file="hangul-combination-default.xml"/>
+
+</hangul-keyboard>
